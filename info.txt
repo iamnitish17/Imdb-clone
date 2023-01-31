@@ -1,0 +1,7 @@
+imdb clone
+1.It contains  sliders 
+2.It will redirect the movies to that particular link or address.
+3.Integrating API'sliders 
+4.We will use the integration between frontend and backend
+5.it is known as Movie searching app.
+6.movies ratingg, its views and other things.
