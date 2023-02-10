@@ -5,3 +5,4 @@ imdb clone
 4.We will use the integration between frontend and backend
 5.it is known as Movie searching app.
 6.movies ratingg, its views and other things.
+7.It contains the navbar.
